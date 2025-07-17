@@ -72,3 +72,14 @@ This application follows a standard FEA workflow:
 5.  **Animate Deformation:** Click "Play Animation" for a step-by-step visualization of the deformation.
 
 ## Project Structure
+
+Shaft-FEA-Simulator/
+├── main.py                
+├── solver/                
+│   ├── fea_solver.py       
+│   ├── fea_math.py         
+│   └── material.py        
+├── mesh/                  
+│   └── generate_mesh.py    
+├── output/                
+└── README.md              
