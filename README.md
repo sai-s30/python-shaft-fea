@@ -35,7 +35,7 @@ This application follows a standard FEA workflow:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Shaft-FEA-Simulator.git](https://github.com/YourUsername/Shaft-FEA-Simulator.git)
+    git clone [https://github.com/sai-s30/Shaft-FEA-Simulator.git](https://github.com/sai-s30/Shaft-FEA-Simulator.git)
     cd Shaft-FEA-Simulator
     ```
 2.  **Create a virtual environment (recommended):**
